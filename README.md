@@ -2,6 +2,7 @@
 (´⊙ω⊙`)！Studying software engineering at Vilniaus Gedimino Technikos university (VGTU)
 …ᘛ⁐̤ᕐᐷ    CPP  |  HTML  |  CSS  |  ASM   
 ( ˘ ³˘)♥  I have a passion for playing and creating video games
+
 [![Ugne's GitHub stats](https://github-readme-stats.vercel.app/api?username=UgneVenc&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **UgneVenc/UgneVenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+(´⊙ω⊙`)！Studying software engineering at Vilniaus Gedimino Technikos university (VGTU)
+…ᘛ⁐̤ᕐᐷ    CPP  |  HTML  |  CSS  |  ASM   
+( ˘ ³˘)♥  I have a passion for playing and creating video games
 <!--
 **UgneVenc/UgneVenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

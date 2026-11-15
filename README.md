@@ -1,7 +1,7 @@
 ### Hi there 👋
-(´⊙ω⊙`)！Studying software engineering at Vilniaus Gedimino Technikos university (VGTU)
-…ᘛ⁐̤ᕐᐷ    CPP  |  HTML  |  CSS  |  ASM   
-( ˘ ³˘)♥  I have a passion for playing and creating video games
+Studying software engineering at Vilniaus Gedimino Technikos university
+…ᘛ⁐̤ᕐᐷ    CPP  |  Java  |  Python  
+I have a passion for playing and creating video games
 
 [![Ugne's GitHub stats](https://github-readme-stats.vercel.app/api?username=UgneVenc&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <!--
